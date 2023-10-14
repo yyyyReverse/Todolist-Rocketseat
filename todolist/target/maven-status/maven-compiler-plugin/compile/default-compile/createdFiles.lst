@@ -1,0 +1,10 @@
+br\com\pedrosalesrocketseat\todolist\task\TaskController.class
+br\com\pedrosalesrocketseat\todolist\user\UserModel.class
+br\com\pedrosalesrocketseat\todolist\errors\ExceptionHanderController.class
+br\com\pedrosalesrocketseat\todolist\task\TaskModel.class
+br\com\pedrosalesrocketseat\todolist\TodolistApplication.class
+br\com\pedrosalesrocketseat\todolist\task\ITaskRepository.class
+br\com\pedrosalesrocketseat\todolist\utils\Utils.class
+br\com\pedrosalesrocketseat\todolist\user\UserController.class
+br\com\pedrosalesrocketseat\todolist\filter\FilterTaskAuth.class
+br\com\pedrosalesrocketseat\todolist\user\IUserRepository.class
